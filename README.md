@@ -1,1 +1,3 @@
-## 1. SPSS - Cryptocurrency Prediction
+## SPSS
+
+1. Cryptocurrency Prediction
