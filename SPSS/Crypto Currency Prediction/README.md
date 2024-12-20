@@ -31,6 +31,11 @@ This project analyzes survey data to identify factors influencing individuals to
 ## Conclusion
 This study highlights actionable insights into cryptocurrency adoption, offering a foundation for further research and policy development.
 
+## Project Report
+https://docs.google.com/document/d/174MZaZ-6UHKEMY0C5v1mBPua4-_1RvYky_rH2Ao0F7w/edit?usp=sharing
+
+---
+
 **Authors**: Shiv Karthee Janardhanan, Sarvenaz Dirakvand, Eshwar Vennam, Danish Basha Shaikh, Sarah Sarika Gangavarapu, Goutam Kalyan Kumar.
 
 ---
