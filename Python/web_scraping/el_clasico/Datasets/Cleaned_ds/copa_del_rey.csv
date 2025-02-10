@@ -1,38 +1,38 @@
-Date,Venue,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers
-1916,Camp Nou,2,1,Barcelona,,,"Alcántara, Martínez",Petit
-1916,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Martínez,Petit
-1916,Santiago Bernabéu Stadium,6,6,Draw,,,"Alcántara, Alcántara, Alcántara, Mallorquí, Bau, Martínez","Belaunde, Belaunde, Belaunde"
-1916,Santiago Bernabéu Stadium,2,4,Real Madrid,,,"Martínez, Martínez","Bernabéu, Zabalo, Aranguren, Aranguren"
-1926,Santiago Bernabéu Stadium,5,1,Barcelona,,,"Samitier, Samitier, Samitier, Samitier, Piera",Monjardín
-1926,Camp Nou,3,0,Barcelona,,,"Piera, Samitier, Samitier",
-1936,,1,2,Real Madrid,,,Escolà,"Eugenio, Lécue"
-1943,Camp Nou,3,0,Barcelona,,,"Mas, Sospedra",
-1943,Santiago Bernabéu Stadium,1,11,Real Madrid,,,Martín,"Pruden, Pruden, Pruden, Barinaga, Barinaga, Barinaga, Barinaga, Alonso, Alonso, Alsúa, Botella"
-1954,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Mateos
-1954,Camp Nou,3,1,Barcelona,,,"César, César, Biosca",Payá
-1957,Santiago Bernabéu Stadium,2,2,Draw,,,"Kubala, Basora",
-1957,Camp Nou,6,1,Barcelona,,Olivella,"Martínez, Martínez, Martínez, Martínez, Kubala, Villaverde",
-1958–59,Santiago Bernabéu Stadium,4,2,Barcelona,,,"Kocsis, Kocsis, Suárez, Suárez","Puskas, Mateos"
-1958–59,Camp Nou,3,1,Barcelona,,,Villaverde,Gento
-1961–62,Santiago Bernabéu Stadium,1,0,Barcelona,,,Martínez,
-1961–62,Camp Nou,1,3,Real Madrid,,,Pereda,"Sol, Puskas, Gento"
-1967–68,Santiago Bernabéu Stadium,1,0,Barcelona,Zunzunegui,,,
-1969–70,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Grosso, Amancio"
-1969–70,Camp Nou,1,1,Draw,,,Rexach,
-1973–74,,0,4,Real Madrid,,,,"Santillana, Rubiñán, Aguilar, Pirri"
-1982–83,,1,2,Real Madrid,,,Santillana,"Víctor, Marcos"
-1989–90,,0,2,Real Madrid,,,,"Amor, Salinas"
-1992–93,Santiago Bernabéu Stadium,1,1,Draw,,,Bakero,Zamorano
-1992–93,Camp Nou,1,2,Real Madrid,,,Laudrup,Zamorano
-1996–97,Camp Nou,3,2,Barcelona,,,"Ronaldo, Nadal, Giovanni","Šuker, Hierro"
-1996–97,Santiago Bernabéu Stadium,1,1,Draw,Roberto,,,
-2010–11,Camp Nou,0,1,Real Madrid,,,,Ronaldo
-2011–12,Santiago Bernabéu Stadium,2,1,Barcelona,,,"Puyol, Abidal",Ronaldo
-2011–12,Camp Nou,2,2,Draw,,,"Pedro, Alves","Ronaldo, Benzema"
-2012–13,Santiago Bernabéu Stadium,1,1,Draw,,,Fàbregas,Varane
-2012–13,Camp Nou,1,3,Real Madrid,,,Alba,Varane
-2013–14,,1,2,Real Madrid,,,Bartra,"María, Bale"
-2018–19,Camp Nou,1,1,Draw,,,Malcom,Vázquez
-2018–19,Santiago Bernabéu Stadium,3,0,Barcelona,Varane,,,
-2022–23,Santiago Bernabéu Stadium,1,0,Barcelona,Militão,,,
-2022–23,Camp Nou,0,4,Real Madrid,,,,Vinícius
+Date,Venue,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers,League
+1916,Camp Nou,2,1,Barcelona,,,"Alcántara, Martínez",Petit,Copa Del Rey
+1916,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Martínez,Petit,Copa Del Rey
+1916,Santiago Bernabéu Stadium,6,6,Draw,,,"Alcántara, Alcántara, Alcántara, Mallorquí, Bau, Martínez","Belaunde, Belaunde, Belaunde",Copa Del Rey
+1916,Santiago Bernabéu Stadium,2,4,Real Madrid,,,"Martínez, Martínez","Bernabéu, Zabalo, Aranguren, Aranguren",Copa Del Rey
+1926,Santiago Bernabéu Stadium,5,1,Barcelona,,,"Samitier, Samitier, Samitier, Samitier, Piera",Monjardín,Copa Del Rey
+1926,Camp Nou,3,0,Barcelona,,,"Piera, Samitier, Samitier",,Copa Del Rey
+1936,,1,2,Real Madrid,,,Escolà,"Eugenio, Lécue",Copa Del Rey
+1943,Camp Nou,3,0,Barcelona,,,"Mas, Sospedra",,Copa Del Rey
+1943,Santiago Bernabéu Stadium,1,11,Real Madrid,,,Martín,"Pruden, Pruden, Pruden, Barinaga, Barinaga, Barinaga, Barinaga, Alonso, Alonso, Alsúa, Botella",Copa Del Rey
+1954,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Mateos,Copa Del Rey
+1954,Camp Nou,3,1,Barcelona,,,"César, César, Biosca",Payá,Copa Del Rey
+1957,Santiago Bernabéu Stadium,2,2,Draw,,,"Kubala, Basora",,Copa Del Rey
+1957,Camp Nou,6,1,Barcelona,,Olivella,"Martínez, Martínez, Martínez, Martínez, Kubala, Villaverde",,Copa Del Rey
+1958–59,Santiago Bernabéu Stadium,4,2,Barcelona,,,"Kocsis, Kocsis, Suárez, Suárez","Puskas, Mateos",Copa Del Rey
+1958–59,Camp Nou,3,1,Barcelona,,,Villaverde,Gento,Copa Del Rey
+1961–62,Santiago Bernabéu Stadium,1,0,Barcelona,,,Martínez,,Copa Del Rey
+1961–62,Camp Nou,1,3,Real Madrid,,,Pereda,"Sol, Puskas, Gento",Copa Del Rey
+1967–68,Santiago Bernabéu Stadium,1,0,Barcelona,Zunzunegui,,,,Copa Del Rey
+1969–70,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Grosso, Amancio",Copa Del Rey
+1969–70,Camp Nou,1,1,Draw,,,Rexach,,Copa Del Rey
+1973–74,,0,4,Real Madrid,,,,"Santillana, Rubiñán, Aguilar, Pirri",Copa Del Rey
+1982–83,,1,2,Real Madrid,,,Santillana,"Víctor, Marcos",Copa Del Rey
+1989–90,,0,2,Real Madrid,,,,"Amor, Salinas",Copa Del Rey
+1992–93,Santiago Bernabéu Stadium,1,1,Draw,,,Bakero,Zamorano,Copa Del Rey
+1992–93,Camp Nou,1,2,Real Madrid,,,Laudrup,Zamorano,Copa Del Rey
+1996–97,Camp Nou,3,2,Barcelona,,,"Ronaldo, Nadal, Giovanni","Šuker, Hierro",Copa Del Rey
+1996–97,Santiago Bernabéu Stadium,1,1,Draw,Roberto,,,,Copa Del Rey
+2010–11,Camp Nou,0,1,Real Madrid,,,,Ronaldo,Copa Del Rey
+2011–12,Santiago Bernabéu Stadium,2,1,Barcelona,,,"Puyol, Abidal",Ronaldo,Copa Del Rey
+2011–12,Camp Nou,2,2,Draw,,,"Pedro, Alves","Ronaldo, Benzema",Copa Del Rey
+2012–13,Santiago Bernabéu Stadium,1,1,Draw,,,Fàbregas,Varane,Copa Del Rey
+2012–13,Camp Nou,1,3,Real Madrid,,,Alba,Varane,Copa Del Rey
+2013–14,,1,2,Real Madrid,,,Bartra,"María, Bale",Copa Del Rey
+2018–19,Camp Nou,1,1,Draw,,,Malcom,Vázquez,Copa Del Rey
+2018–19,Santiago Bernabéu Stadium,3,0,Barcelona,Varane,,,,Copa Del Rey
+2022–23,Santiago Bernabéu Stadium,1,0,Barcelona,Militão,,,,Copa Del Rey
+2022–23,Camp Nou,0,4,Real Madrid,,,,Vinícius,Copa Del Rey

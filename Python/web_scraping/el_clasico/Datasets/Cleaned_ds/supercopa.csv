@@ -1,19 +1,19 @@
-Date,Venue,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers
-1988–89,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Míchel, Sánchez"
-1988–89,Camp Nou,2,1,Barcelona,,,"Bakero, Bakero",Butragueño
-1990–91,Camp Nou,0,1,Real Madrid,,,,Míchel
-1990–91,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Goikoetxea,"Butragueño, Butragueño, Sánchez, Aragón"
-1993–94,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Stoichkov,"Alfonso, Alfonso, Zamorano"
-1993–94,Camp Nou,1,1,Draw,,,Bakero,Zamorano
-1997–98,Camp Nou,2,1,Barcelona,,,Nadal,Raúl
-1997–98,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Giovanni,"Raúl, Raúl, Mijatović, Seedorf"
-2011–12,Santiago Bernabéu Stadium,2,2,Draw,,,"Villa, Messi","Özil, Alonso"
-2011–12,Camp Nou,3,2,Barcelona,,,"Iniesta, Messi, Messi","Ronaldo, Benzema"
-2012–13,Camp Nou,3,2,Barcelona,,,"Pedro, Xavi","Ronaldo, María"
-2012–13,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Messi,"Higuaín, Ronaldo"
-2017–18,Camp Nou,1,3,Real Madrid,,Piqué,,"Ronaldo, Asensio"
-2017–18,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Asensio, Benzema"
-2021–22,Camp Nou,2,3,Real Madrid,,,"Jong, Fati","Vinícius, Benzema, Valverde"
-2022–23,Santiago Bernabéu Stadium,3,1,Barcelona,,,"Gavi, Lewandowski, Pedri",Benzema
-2023–24,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Lewandowski,Rodrygo
-2024–25,Santiago Bernabéu Stadium,5,2,Barcelona,,,"Yamal, Raphinha, Raphinha, Balde","Mbappé, Rodrygo"
+Date,Venue,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers,League
+1988–89,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Míchel, Sánchez",Supercopa
+1988–89,Camp Nou,2,1,Barcelona,,,"Bakero, Bakero",Butragueño,Supercopa
+1990–91,Camp Nou,0,1,Real Madrid,,,,Míchel,Supercopa
+1990–91,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Goikoetxea,"Butragueño, Butragueño, Sánchez, Aragón",Supercopa
+1993–94,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Stoichkov,"Alfonso, Alfonso, Zamorano",Supercopa
+1993–94,Camp Nou,1,1,Draw,,,Bakero,Zamorano,Supercopa
+1997–98,Camp Nou,2,1,Barcelona,,,Nadal,Raúl,Supercopa
+1997–98,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Giovanni,"Raúl, Raúl, Mijatović, Seedorf",Supercopa
+2011–12,Santiago Bernabéu Stadium,2,2,Draw,,,"Villa, Messi","Özil, Alonso",Supercopa
+2011–12,Camp Nou,3,2,Barcelona,,,"Iniesta, Messi, Messi","Ronaldo, Benzema",Supercopa
+2012–13,Camp Nou,3,2,Barcelona,,,"Pedro, Xavi","Ronaldo, María",Supercopa
+2012–13,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Messi,"Higuaín, Ronaldo",Supercopa
+2017–18,Camp Nou,1,3,Real Madrid,,Piqué,,"Ronaldo, Asensio",Supercopa
+2017–18,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Asensio, Benzema",Supercopa
+2021–22,Camp Nou,2,3,Real Madrid,,,"Jong, Fati","Vinícius, Benzema, Valverde",Supercopa
+2022–23,Santiago Bernabéu Stadium,3,1,Barcelona,,,"Gavi, Lewandowski, Pedri",Benzema,Supercopa
+2023–24,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Lewandowski,Rodrygo,Supercopa
+2024–25,Santiago Bernabéu Stadium,5,2,Barcelona,,,"Yamal, Raphinha, Raphinha, Balde","Mbappé, Rodrygo",Supercopa
