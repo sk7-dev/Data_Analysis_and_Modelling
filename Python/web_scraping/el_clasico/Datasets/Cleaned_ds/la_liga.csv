@@ -1,190 +1,190 @@
-Date,Venue,Barcelona Goals,Real Madrid Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona Scorers Clean,Real Madrid Scorers Clean,League
-1929-02-17,Camp Nou,1,2,Real Madrid,,,Parera,"Morera, Morera",La Liga
-1929-05-09,Santiago Bernabéu Stadium,1,0,Barcelona,,,Sastre,,La Liga
-1930-01-26,Camp Nou,1,4,Real Madrid,,,Bestit,"Rubio, Rubio, López, Lazcano",La Liga
-1930-03-30,Santiago Bernabéu Stadium,1,5,Real Madrid,,,Goiburu,"Rubio, Rubio, Lazcano, Lazcano, Lazcano",La Liga
-1931-02-01,Santiago Bernabéu Stadium,0,0,Draw,,,,,La Liga
-1931-04-05,Camp Nou,3,1,Barcelona,,,"Ramón, Ramón, Ramón",Eugenio,La Liga
-1932-01-31,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Olivares, Olivares",La Liga
-1932-04-03,Camp Nou,2,2,Draw,,,Samitier,"Lazcano, Regueiro",La Liga
-1933-01-01,Camp Nou,1,1,Draw,,,Arocha,,La Liga
-1933-03-05,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Goiburu,"Samitier, Samitier",La Liga
-1933-11-26,Camp Nou,1,2,Real Madrid,,,Morera,"Olivares, Regueiro",La Liga
-1934-01-28,Santiago Bernabéu Stadium,0,4,Real Madrid,,,,"Valle, Samitier, Regueiro, Eugenio",La Liga
-1935-02-03,Santiago Bernabéu Stadium,2,8,Real Madrid,,,"Escolà, Guzmán","Lazcano, Lazcano, Lazcano, Sañudo, Sañudo, Sañudo, Sañudo, Regueiro",La Liga
-1935-04-21,Camp Nou,5,0,Barcelona,,,"Ventolrà, Ventolrà, Ventolrà, Ventolrà, Escolà",,La Liga
-1935-12-22,Camp Nou,0,3,Real Madrid,,,,"Regueiro, Diz, Lecue",La Liga
-1936-03-22,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Lecue, Lecue, Emilin",La Liga
-1940-01-28,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Pascual,"Alonso, Lecue",La Liga
-1940-04-14,Camp Nou,0,0,Draw,,,,,La Liga
-1940-12-01,Camp Nou,3,0,Barcelona,,,"Sospedra, Sospedra, Mas",,La Liga
-1941-02-23,Santiago Bernabéu Stadium,2,1,Barcelona,,,"Bravo, Martín",Barinaga,La Liga
-1941-10-19,Santiago Bernabéu Stadium,3,4,Real Madrid,,,"Calvet, Gracia","Arbiza, Arbiza, Belmar",La Liga
-1942-01-25,Camp Nou,0,2,Real Madrid,,,,"Alday, Alday",La Liga
-1942-09-27,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Arbiza, Arbiza, Alsúa",La Liga
-1943-01-10,Camp Nou,5,5,Draw,,,"Martín, Martín, Escolà, Mas, Mas","Alonso, Alday, Alday, Botella, II",La Liga
-1944-01-02,Santiago Bernabéu Stadium,1,0,Barcelona,,,Mas,,La Liga
-1944-04-09,Camp Nou,1,2,Real Madrid,,,Escolà,Alsúa,La Liga
-1944-11-12,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Moleiro,La Liga
-1945-03-25,Camp Nou,5,0,Barcelona,,,"César, César, Bravo, Escolà, III",,La Liga
-1945-11-25,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Martín, III","Barinaga, Pruden, Belmar",La Liga
-1946-03-03,Camp Nou,1,0,Barcelona,,,César,,La Liga
-1946-12-01,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Seguer,Molowny,La Liga
-1947-03-30,Camp Nou,3,2,Barcelona,,,"Bravo, Navarro, Navarro","Arsuaga, Arsuaga",La Liga
-1947-10-12,Santiago Bernabéu Stadium,1,1,Draw,,,,Barinaga,La Liga
-1948-01-25,Camp Nou,4,2,Barcelona,,,"Seguer, Basora, Basora, César","Gallardo, Yunta",La Liga
-1948-09-19,Santiago Bernabéu Stadium,2,1,Barcelona,,,"Florencio, Basora",Barinaga,La Liga
-1949-01-09,Camp Nou,3,1,Barcelona,,,"César, César, Basora",Pahiño,La Liga
-1949-09-18,Santiago Bernabéu Stadium,1,6,Real Madrid,,,II,"Pahiño, Pahiño, Pahiño, Cabrera, Macala, Macala",La Liga
-1950-01-15,Camp Nou,2,3,Real Madrid,,,"Basora, César","Pahiño, Verdú, Cabrera",La Liga
-1950-09-24,Camp Nou,7,2,Barcelona,,,"Nicolau, Nicolau, César, Aurelio, Aurelio, III, Basora","Molowny, González",La Liga
-1951-01-14,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Canal,"Narro, Narro, Narro, Pahiño",La Liga
-1951-11-11,Santiago Bernabéu Stadium,1,5,Real Madrid,,,Basora,"Molowny, Cabrera, Pahiño, Pahiño, Olsen",La Liga
-1952-03-02,Camp Nou,4,2,Barcelona,,,"Soler, César, César, César","Olsen, Arsuaga",La Liga
-1952-11-23,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Manchón,"Arsuaga, Arsuaga",La Liga
-1953-04-05,Camp Nou,1,0,Barcelona,,,Moreno,,La Liga
-1953-10-25,Santiago Bernabéu Stadium,0,5,Real Madrid,,,,"Stéfano, Stéfano, Olsen, Olsen, Molowny",La Liga
-1954-02-21,Camp Nou,5,1,Barcelona,,,"Tejada, Tejada, César, Moreno, Manchón",Stéfano,La Liga
-1954-11-21,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Rial, Joseito",La Liga
-1955-03-06,Camp Nou,2,2,Draw,,,"Basora, Moll","Gento, Gento",La Liga
-1955-11-13,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Areta,"Rial, Marquitos",La Liga
-1956-03-18,Camp Nou,2,0,Barcelona,,,"Villaverde, Villaverde",,La Liga
-1956-11-11,Camp Nou,1,0,Barcelona,,,Suárez,,La Liga
-1957-03-03,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Joseito,La Liga
-1957-10-13,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Kopa, Rial, Stéfano",La Liga
-1958-02-02,Camp Nou,0,2,Real Madrid,,,,"Marsal, Rial",La Liga
-1958-10-26,Camp Nou,4,0,Barcelona,,,"Evaristo, Evaristo, Evaristo, Tejada",,La Liga
-1959-02-15,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Herrera,La Liga
-1959-11-29,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Mateos, Stéfano",La Liga
-1960-03-20,Camp Nou,3,1,Barcelona,,,"Kocsis, Martínez, Villaverde",Stéfano,La Liga
-1960-12-04,Camp Nou,3,5,Real Madrid,,,"Martínez, Villaverde, Kubala","Stéfano, Stéfano, Sol, Gento, Gento",La Liga
-1961-03-26,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Suárez, Kubala","Sol, Stéfano, Puskás",La Liga
-1961-09-30,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Puskás, Sol",La Liga
-1962-01-21,Camp Nou,3,1,Barcelona,,,"Evaristo, Evaristo, Kocsis",Ruiz,La Liga
-1962-09-30,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Stéfano, Stéfano",La Liga
-1963-01-27,Camp Nou,1,5,Real Madrid,,,Ré,"Stéfano, Gento",La Liga
-1963-12-15,Santiago Bernabéu Stadium,0,4,Real Madrid,,,,Stéfano,La Liga
-1964-03-30,Camp Nou,1,2,Real Madrid,,,Zaldúa,"Gento, Puskás",La Liga
-1964-11-08,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Ré,"Amancio, Amancio, Amancio, Serena",La Liga
-1965-02-28,Camp Nou,1,2,Real Madrid,,,Ré,"Pirri, Serena",La Liga
-1965-12-19,Santiago Bernabéu Stadium,3,1,Barcelona,,,"Fusté, Fusté, Zaldúa",Ruiz,La Liga
-1966-03-27,Camp Nou,2,1,Barcelona,,,"Rifé, Zaballa",Gento,La Liga
-1966-11-20,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Veloso,La Liga
-1967-03-19,Camp Nou,2,1,Barcelona,,,"Fusté, Fusté",Amancio,La Liga
-1967-12-10,Santiago Bernabéu Stadium,1,1,Draw,,,Zaldúa,,La Liga
-1968-04-09,Camp Nou,1,1,Draw,,,Zaldúa,Pirri,La Liga
-1968-11-16,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Zaldúa,"Pirri, Luis",La Liga
-1969-03-09,Camp Nou,1,1,Draw,,,Zaldúa,,La Liga
-1969-09-14,Santiago Bernabéu Stadium,3,3,Draw,,,"Bustillo, Bustillo, Rexach","Fleitas, Fleitas, Gento",La Liga
-1969-12-28,Camp Nou,1,0,Barcelona,,,Gallego,,La Liga
-1970-10-25,Santiago Bernabéu Stadium,1,0,Barcelona,,,Zabalza,,La Liga
-1971-02-14,Camp Nou,0,1,Real Madrid,,,,Grande,La Liga
-1971-11-27,Santiago Bernabéu Stadium,1,1,Draw,,,Asensi,Grosso,La Liga
-1972-04-03,Camp Nou,1,0,Barcelona,,,Asensi,,La Liga
-1972-10-01,Camp Nou,1,0,Barcelona,,,Barrios,,La Liga
-1973-02-24,Santiago Bernabéu Stadium,0,0,Draw,,,,,La Liga
-1973-10-07,Camp Nou,0,0,Draw,,,,,La Liga
-1974-02-16,Santiago Bernabéu Stadium,5,0,Barcelona,,,"Asensi, Asensi, Cruyff, Carlos, Sotil",,La Liga
-1975-01-04,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Martínez,La Liga
-1975-05-11,Camp Nou,0,0,Draw,,,,,La Liga
-1975-12-27,Camp Nou,2,1,Barcelona,,,"Neeskens, Rexach",Pirri,La Liga
-1976-04-30,Santiago Bernabéu Stadium,2,0,Barcelona,,,"Rexach, Heredia",,La Liga
-1976-09-19,Camp Nou,3,1,Barcelona,,,"Marcial, Cruyff, Heredia",Pirri,La Liga
-1977-01-30,Santiago Bernabéu Stadium,1,1,Draw,,,Cruyff,,La Liga
-1977-12-04,Camp Nou,2,3,Real Madrid,,,,"Jensen, Santillana, Stielike",La Liga
-1978-04-05,Santiago Bernabéu Stadium,0,4,Real Madrid,,,,"Jensen, Jensen, Juanito, Santillana",La Liga
-1978-09-23,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Neeskens,"Santillana, Santillana, Jensen",La Liga
-1979-02-17,Camp Nou,2,0,Barcelona,,,"Krankl, Asensi",,La Liga
-1979-09-23,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Landáburu, Krankl","Santillana, Juanito, Cunningham",La Liga
-1980-02-10,Camp Nou,0,2,Real Madrid,,,,"Hernández, Santillana",La Liga
-1980-11-30,Camp Nou,2,1,Barcelona,,,"Schuster, Quini",Juanito,La Liga
-1981-03-29,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Santillana, Stielike",La Liga
-1981-12-20,Camp Nou,3,1,Barcelona,,,Alexanko,Juanito,La Liga
-1982-04-18,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Quini,"Cortés, Isidro",La Liga
-1982-11-27,Santiago Bernabéu Stadium,2,0,Barcelona,,,"Vigo, Quini",,La Liga
-1983-03-26,Camp Nou,2,1,Barcelona,,,"Maradona, Alonso",Juanito,La Liga
-1983-10-22,Camp Nou,1,2,Real Madrid,,,,Santillana,La Liga
-1984-02-25,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Maradona,"Juanito, Santillana",La Liga
-1984-09-02,Santiago Bernabéu Stadium,3,0,Barcelona,,,"Archibald, Calderé",,La Liga
-1984-12-30,Camp Nou,3,2,Barcelona,,,"Gerardo, Migueli, Vigo","Sanchís, Butragueño",La Liga
-1985-11-09,Camp Nou,2,0,Barcelona,,,"Marcos, Calderé",,La Liga
-1986-03-08,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Amarilla,"Maceda, Valdano, Butragueño",La Liga
-1986-10-08,Santiago Bernabéu Stadium,1,1,Draw,,,Pedraza,,La Liga
-1987-01-31,Camp Nou,3,2,Barcelona,,,"Lineker, Lineker, Lineker",Valdano,La Liga
-1987-04-12,Santiago Bernabéu Stadium,0,0,Draw,,,,,La Liga
-1987-05-23,Camp Nou,2,1,Barcelona,,,Lineker,Sánchez,La Liga
-1988-01-02,Santiago Bernabéu Stadium,1,2,Real Madrid,,,,,La Liga
-1988-04-30,Camp Nou,2,0,Barcelona,,,"Carrasco, Lineker",,La Liga
-1988-10-22,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Bakero, Carrasco","Sánchez, Aldana, Gordillo",La Liga
-1989-04-01,Camp Nou,0,0,Draw,,,,,La Liga
-1989-10-07,Camp Nou,3,1,Barcelona,,,Salinas,,La Liga
-1990-02-15,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Salinas, Salinas","Míchel, Butragueño",La Liga
-1991-01-19,Camp Nou,2,1,Barcelona,,,Laudrup,Butragueño,La Liga
-1991-06-08,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Aldana,La Liga
-1991-10-19,Santiago Bernabéu Stadium,1,1,Draw,,,,Prosinečki,La Liga
-1992-03-07,Camp Nou,1,1,Draw,,,Koeman,Hierro,La Liga
-1992-09-05,Camp Nou,2,1,Barcelona,,,"Bakero, Stoichkov",,La Liga
-1993-01-29,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Amor,Zamorano,La Liga
-1994-01-08,Camp Nou,5,0,Barcelona,,,"Romário, Romário, Romário, Koeman, Iglesias",,La Liga
-1994-05-06,Santiago Bernabéu Stadium,1,0,Barcelona,,,Amor,,La Liga
-1995-01-06,Santiago Bernabéu Stadium,0,5,Real Madrid,,,,"Zamorano, Zamorano, Zamorano, Enrique, Amavisca",La Liga
-1995-05-26,Camp Nou,1,0,Barcelona,,,Nadal,,La Liga
-1995-09-30,Santiago Bernabéu Stadium,1,1,Draw,,,Roger,Raúl,La Liga
-1996-02-09,Camp Nou,3,0,Barcelona,,,"Kodro, Kodro, Figo",,La Liga
-1996-12-07,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Šuker, Mijatović",La Liga
-1997-05-10,Camp Nou,1,0,Barcelona,,,Ronaldo,,La Liga
-1997-11-01,Santiago Bernabéu Stadium,3,2,Barcelona,,,"Rivaldo, Enrique, Giovanni","Raúl, Šuker",La Liga
-1998-03-07,Camp Nou,3,0,Barcelona,,,"Anderson, Figo, Giovanni",,La Liga
-1998-09-19,Santiago Bernabéu Stadium,2,2,Draw,,,"Kluivert, Anderson","Raúl, Raúl",La Liga
-1999-02-14,Camp Nou,3,0,Barcelona,,,"Enrique, Enrique, Rivaldo",,La Liga
-1999-10-13,Camp Nou,2,2,Draw,,,"Rivaldo, Figo","Raúl, Raúl",La Liga
-2000-02-26,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Carlos, Anelka, Morientes",La Liga
-2000-10-21,Camp Nou,2,0,Barcelona,,,"Enrique, Simão",,La Liga
-2001-03-03,Santiago Bernabéu Stadium,2,2,Draw,,,"Rivaldo, Rivaldo","Raúl, Raúl",La Liga
-2001-11-04,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Morientes, Figo",La Liga
-2002-03-16,Camp Nou,1,1,Draw,,,Xavi,Zidane,La Liga
-2002-11-23,Camp Nou,0,0,Draw,,,,,La Liga
-2003-04-19,Santiago Bernabéu Stadium,1,1,Draw,,,Enrique,Ronaldo,La Liga
-2003-12-06,Camp Nou,1,2,Real Madrid,,,Kluivert,"Carlos, Ronaldo",La Liga
-2004-04-25,Santiago Bernabéu Stadium,2,1,Barcelona,,,"Kluivert, Xavi",Solari,La Liga
-2004-11-20,Camp Nou,3,0,Barcelona,,,"o, Bronckhorst",,La Liga
-2005-04-10,Santiago Bernabéu Stadium,2,4,Real Madrid,,,"o, Ronaldinho","Zidane, Ronaldo, Raúl, Owen",La Liga
-2005-11-19,Santiago Bernabéu Stadium,3,0,Barcelona,,,"o, Ronaldinho, Ronaldinho",,La Liga
-2006-04-01,Camp Nou,1,1,Draw,,,,Ronaldo,La Liga
-2006-10-22,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Raúl, Nistelrooy",La Liga
-2007-03-10,Camp Nou,3,3,Draw,,,"Messi, Messi, Messi",Ramos,La Liga
-2007-12-23,Camp Nou,0,1,Real Madrid,,,,Baptista,La Liga
-2008-05-07,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Henry,"Raúl, Robben, Higuaín",La Liga
-2008-12-13,Camp Nou,2,0,Barcelona,,,"o, Messi",,La Liga
-2009-05-02,Santiago Bernabéu Stadium,6,2,Barcelona,,,"Henry, Henry, Puyol, Messi, Messi, Piqué","Higuaín, Ramos",La Liga
-2009-11-29,Camp Nou,1,0,Barcelona,,,Ibrahimović,,La Liga
-2010-04-10,Santiago Bernabéu Stadium,2,0,Barcelona,,,"Messi, Pedro",,La Liga
-2010-11-29,Camp Nou,5,0,Barcelona,,,"Xavi, Pedro, Villa, Villa, Jeffrén",,La Liga
-2011-04-16,Santiago Bernabéu Stadium,1,1,Draw,,,,,La Liga
-2011-12-10,Santiago Bernabéu Stadium,3,1,Barcelona,,,"Sánchez, Xavi, Fàbregas",Benzema,La Liga
-2012-04-21,Camp Nou,1,2,Real Madrid,,,Sánchez,"Khedira, Ronaldo",La Liga
-2012-10-07,Camp Nou,2,2,Draw,,,"Messi, Messi","Ronaldo, Ronaldo",La Liga
-2013-03-02,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Messi,"Benzema, Ramos",La Liga
-2013-10-26,Camp Nou,2,1,Barcelona,,,"Neymar, Sánchez",Jesé,La Liga
-2014-03-23,Santiago Bernabéu Stadium,4,3,Barcelona,,,Iniesta,"Benzema, Benzema",La Liga
-2014-10-25,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Neymar,"Pepe, Benzema",La Liga
-2015-03-22,Camp Nou,2,1,Barcelona,,,"Mathieu, Suárez",Ronaldo,La Liga
-2015-11-21,Santiago Bernabéu Stadium,4,0,Barcelona,,,"Suárez, Suárez, Neymar, Iniesta",,La Liga
-2016-04-02,Camp Nou,1,2,Real Madrid,,,Piqué,"Benzema, Ronaldo",La Liga
-2016-12-03,Camp Nou,1,1,Draw,,,Suárez,Ramos,La Liga
-2017-04-23,Santiago Bernabéu Stadium,3,2,Barcelona,,,"Messi, Messi, Rakitić","Casemiro, Rodríguez",La Liga
-2017-12-23,Santiago Bernabéu Stadium,3,0,Barcelona,,,"Suárez, Vidal",,La Liga
-2018-05-06,Camp Nou,2,2,Draw,,,"Suárez, Messi","Ronaldo, Bale",La Liga
-2018-10-28,Camp Nou,5,1,Barcelona,,,"Coutinho, Vidal",Marcelo,La Liga
-2019-03-02,Santiago Bernabéu Stadium,1,0,Barcelona,,,Rakitić,,La Liga
-2019-12-18,Camp Nou,0,0,Draw,,,,,La Liga
-2020-03-01,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Vinícius, Díaz",La Liga
-2020-10-24,Camp Nou,1,3,Real Madrid,,,Fati,"Valverde, Modrić",La Liga
-2021-04-10,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Mingueza,"Benzema, Kroos",La Liga
-2021-10-24,Camp Nou,1,2,Real Madrid,,,Agüero,"Alaba, Vázquez",La Liga
-2022-03-20,Santiago Bernabéu Stadium,4,0,Barcelona,,,"Aubameyang, Aubameyang, Araújo, Torres",,La Liga
-2022-10-16,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Torres,"Benzema, Valverde",La Liga
-2023-03-19,Camp Nou,2,1,Barcelona,,,"Roberto, Kessié",,La Liga
-2023-10-28,Camp Nou,1,2,Real Madrid,,,Gündoğan,"Bellingham, Bellingham",La Liga
-2024-04-21,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Christensen, López","Vázquez, Bellingham",La Liga
-2024-10-26,Santiago Bernabéu Stadium,4,0,Barcelona,,,"Lewandowski, Lewandowski, Yamal, Raphinha",,La Liga
+Date,Year,Venue,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers,League
+1929-02-17,1929,Camp Nou,1,2,Real Madrid,,,Parera,"Morera, Morera",La Liga
+1929-05-09,1929,Santiago Bernabéu Stadium,1,0,Barcelona,,,Sastre,,La Liga
+1930-01-26,1930,Camp Nou,1,4,Real Madrid,,,Bestit,"Rubio, Rubio, López, Lazcano",La Liga
+1930-03-30,1930,Santiago Bernabéu Stadium,1,5,Real Madrid,,,Goiburu,"Rubio, Rubio, Lazcano, Lazcano, Lazcano",La Liga
+1931-02-01,1931,Santiago Bernabéu Stadium,0,0,Draw,,,,,La Liga
+1931-04-05,1931,Camp Nou,3,1,Barcelona,,,"Ramón, Ramón, Ramón",Eugenio,La Liga
+1932-01-31,1932,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Olivares, Olivares",La Liga
+1932-04-03,1932,Camp Nou,2,2,Draw,,,"Samitier, Arocha","Lazcano, Regueiro",La Liga
+1933-01-01,1933,Camp Nou,1,1,Draw,,,Arocha,Regueiro,La Liga
+1933-03-05,1933,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Goiburu,"Samitier, Samitier",La Liga
+1933-11-26,1933,Camp Nou,1,2,Real Madrid,,,Morera,"Olivares, Regueiro",La Liga
+1934-01-28,1934,Santiago Bernabéu Stadium,0,4,Real Madrid,,,,"Valle, Samitier, Regueiro, Eugenio",La Liga
+1935-02-03,1935,Santiago Bernabéu Stadium,2,8,Real Madrid,,,"Escolà, Guzmán","Lazcano, Lazcano, Lazcano, Sañudo, Sañudo, Sañudo, Sañudo, Regueiro",La Liga
+1935-04-21,1935,Camp Nou,5,0,Barcelona,,,"Ventolrà, Ventolrà, Ventolrà, Ventolrà, Escolà",,La Liga
+1935-12-22,1935,Camp Nou,0,3,Real Madrid,,,,"Regueiro, Diz, Lecue",La Liga
+1936-03-22,1936,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Lecue, Lecue, Emilin",La Liga
+1940-01-28,1940,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Pascual,"Alonso, Lecue",La Liga
+1940-04-14,1940,Camp Nou,0,0,Draw,,,,,La Liga
+1940-12-01,1940,Camp Nou,3,0,Barcelona,,,"Sospedra, Sospedra, Mas",,La Liga
+1941-02-23,1941,Santiago Bernabéu Stadium,2,1,Barcelona,,,"Bravo, Martín",Barinaga,La Liga
+1941-10-19,1941,Santiago Bernabéu Stadium,3,4,Real Madrid,,Benito,"Calvet, Raich, Gracia","Arbiza, Arbiza, Belmar",La Liga
+1942-01-25,1942,Camp Nou,0,2,Real Madrid,,,,"Alday, Alday",La Liga
+1942-09-27,1942,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Arbiza, Arbiza, Alsúa",La Liga
+1943-01-10,1943,Camp Nou,5,5,Draw,,,"Martín, Martín, Escolà, Mas, Mas","Alonso, Alday, Alday, Botella, II",La Liga
+1944-01-02,1944,Santiago Bernabéu Stadium,1,0,Barcelona,,,Mas,,La Liga
+1944-04-09,1944,Camp Nou,1,2,Real Madrid,,Rosalénch,Escolà,Alsúa,La Liga
+1944-11-12,1944,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Moleiro,La Liga
+1945-03-25,1945,Camp Nou,5,0,Barcelona,,,"César, César, Bravo, Escolà, III",,La Liga
+1945-11-25,1945,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Martín, III","Barinaga, Pruden, Belmar",La Liga
+1946-03-03,1946,Camp Nou,1,0,Barcelona,,,César,,La Liga
+1946-12-01,1946,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Seguer,"Corona, Molowny",La Liga
+1947-03-30,1947,Camp Nou,3,2,Barcelona,,,"Bravo, Navarro, Navarro","Arsuaga, Arsuaga",La Liga
+1947-10-12,1947,Santiago Bernabéu Stadium,1,1,Draw,Clemente,,,Barinaga,La Liga
+1948-01-25,1948,Camp Nou,4,2,Barcelona,,,"Seguer, Basora, Basora, César","Gallardo, Yunta",La Liga
+1948-09-19,1948,Santiago Bernabéu Stadium,2,1,Barcelona,,,"Florencio, Basora",Barinaga,La Liga
+1949-01-09,1949,Camp Nou,3,1,Barcelona,,,"César, César, Basora",Pahiño,La Liga
+1949-09-18,1949,Santiago Bernabéu Stadium,1,6,Real Madrid,,,II,"Pahiño, Pahiño, Pahiño, Cabrera, Macala, Macala",La Liga
+1950-01-15,1950,Camp Nou,2,3,Real Madrid,,,"Basora, César","Pahiño, Verdú, Cabrera",La Liga
+1950-09-24,1950,Camp Nou,7,2,Barcelona,,,"Nicolau, Nicolau, César, Aurelio, Aurelio, III, Basora","Molowny, González",La Liga
+1951-01-14,1951,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Canal,"Narro, Narro, Narro, Pahiño",La Liga
+1951-11-11,1951,Santiago Bernabéu Stadium,1,5,Real Madrid,,,Basora,"Molowny, Cabrera, Pahiño, Pahiño, Olsen",La Liga
+1952-03-02,1952,Camp Nou,4,2,Barcelona,,,"Soler, César, César, César","Olsen, Arsuaga",La Liga
+1952-11-23,1952,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Manchón,"Arsuaga, Arsuaga",La Liga
+1953-04-05,1953,Camp Nou,1,0,Barcelona,,,Moreno,,La Liga
+1953-10-25,1953,Santiago Bernabéu Stadium,0,5,Real Madrid,,,,"Stéfano, Stéfano, Olsen, Olsen, Molowny",La Liga
+1954-02-21,1954,Camp Nou,5,1,Barcelona,,,"Tejada, Tejada, César, Moreno, Manchón",Stéfano,La Liga
+1954-11-21,1954,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Stéfano, Rial, Joseito",La Liga
+1955-03-06,1955,Camp Nou,2,2,Draw,,,"Basora, Moll","Gento, Gento",La Liga
+1955-11-13,1955,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Areta,"Rial, Marquitos",La Liga
+1956-03-18,1956,Camp Nou,2,0,Barcelona,,,"Villaverde, Villaverde",,La Liga
+1956-11-11,1956,Camp Nou,1,0,Barcelona,,,Suárez,,La Liga
+1957-03-03,1957,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Joseito,La Liga
+1957-10-13,1957,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Kopa, Rial, Stéfano",La Liga
+1958-02-02,1958,Camp Nou,0,2,Real Madrid,,,,"Marsal, Rial",La Liga
+1958-10-26,1958,Camp Nou,4,0,Barcelona,,,"Evaristo, Evaristo, Evaristo, Tejada",,La Liga
+1959-02-15,1959,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Herrera,La Liga
+1959-11-29,1959,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Mateos, Stéfano",La Liga
+1960-03-20,1960,Camp Nou,3,1,Barcelona,,,"Kocsis, Martínez, Villaverde",Stéfano,La Liga
+1960-12-04,1960,Camp Nou,3,5,Real Madrid,,,"Martínez, Villaverde, Kubala","Stéfano, Stéfano, Sol, Gento, Gento",La Liga
+1961-03-26,1961,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Suárez, Kubala","Sol, Stéfano, Puskás",La Liga
+1961-09-30,1961,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Puskás, Sol",La Liga
+1962-01-21,1962,Camp Nou,3,1,Barcelona,,,"Evaristo, Evaristo, Kocsis",Ruiz,La Liga
+1962-09-30,1962,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Stéfano, Stéfano",La Liga
+1963-01-27,1963,Camp Nou,1,5,Real Madrid,,,Ré,"Puskás, Puskás, Puskás, Stéfano, Gento",La Liga
+1963-12-15,1963,Santiago Bernabéu Stadium,0,4,Real Madrid,,,,"Puskás, Puskás, Puskás, Stéfano",La Liga
+1964-03-30,1964,Camp Nou,1,2,Real Madrid,,,Zaldúa,"Gento, Puskás",La Liga
+1964-11-08,1964,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Ré,"Amancio, Amancio, Amancio, Serena",La Liga
+1965-02-28,1965,Camp Nou,1,2,Real Madrid,,,Ré,"Pirri, Serena",La Liga
+1965-12-19,1965,Santiago Bernabéu Stadium,3,1,Barcelona,,,"Fusté, Fusté, Zaldúa",Ruiz,La Liga
+1966-03-27,1966,Camp Nou,2,1,Barcelona,,,"Rifé, Zaballa",Gento,La Liga
+1966-11-20,1966,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Veloso,La Liga
+1967-03-19,1967,Camp Nou,2,1,Barcelona,,,"Fusté, Fusté",Amancio,La Liga
+1967-12-10,1967,Santiago Bernabéu Stadium,1,1,Draw,,,Zaldúa,Gento,La Liga
+1968-04-09,1968,Camp Nou,1,1,Draw,,,Zaldúa,Pirri,La Liga
+1968-11-16,1968,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Zaldúa,"Pirri, Luis",La Liga
+1969-03-09,1969,Camp Nou,1,1,Draw,,,Zaldúa,Gento,La Liga
+1969-09-14,1969,Santiago Bernabéu Stadium,3,3,Draw,,,"Bustillo, Bustillo, Rexach","Fleitas, Fleitas, Gento",La Liga
+1969-12-28,1969,Camp Nou,1,0,Barcelona,,,Gallego,,La Liga
+1970-10-25,1970,Santiago Bernabéu Stadium,1,0,Barcelona,,,Zabalza,,La Liga
+1971-02-14,1971,Camp Nou,0,1,Real Madrid,,,,Grande,La Liga
+1971-11-27,1971,Santiago Bernabéu Stadium,1,1,Draw,,,Asensi,Grosso,La Liga
+1972-04-03,1972,Camp Nou,1,0,Barcelona,,,Asensi,,La Liga
+1972-10-01,1972,Camp Nou,1,0,Barcelona,,,Barrios,,La Liga
+1973-02-24,1973,Santiago Bernabéu Stadium,0,0,Draw,,,,,La Liga
+1973-10-07,1973,Camp Nou,0,0,Draw,,,,,La Liga
+1974-02-16,1974,Santiago Bernabéu Stadium,5,0,Barcelona,,,"Asensi, Asensi, Cruyff, Carlos, Sotil",,La Liga
+1975-01-04,1975,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Martínez,La Liga
+1975-05-11,1975,Camp Nou,0,0,Draw,,,,,La Liga
+1975-12-27,1975,Camp Nou,2,1,Barcelona,,,"Neeskens, Rexach",Pirri,La Liga
+1976-04-30,1976,Santiago Bernabéu Stadium,2,0,Barcelona,,,"Rexach, Heredia",,La Liga
+1976-09-19,1976,Camp Nou,3,1,Barcelona,,,"Marcial, Cruyff, Heredia",Pirri,La Liga
+1977-01-30,1977,Santiago Bernabéu Stadium,1,1,Draw,,,Cruyff,Pirri,La Liga
+1977-12-04,1977,Camp Nou,2,3,Real Madrid,,,"Rexach, Rexach","Jensen, Santillana, Stielike",La Liga
+1978-04-05,1978,Santiago Bernabéu Stadium,0,4,Real Madrid,,,,"Jensen, Jensen, Juanito, Santillana",La Liga
+1978-09-23,1978,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Neeskens,"Santillana, Santillana, Jensen",La Liga
+1979-02-17,1979,Camp Nou,2,0,Barcelona,,,"Krankl, Asensi",,La Liga
+1979-09-23,1979,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Landáburu, Krankl","Santillana, Juanito, Cunningham",La Liga
+1980-02-10,1980,Camp Nou,0,2,Real Madrid,,,,"Hernández, Santillana",La Liga
+1980-11-30,1980,Camp Nou,2,1,Barcelona,,,"Schuster, Quini",Juanito,La Liga
+1981-03-29,1981,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Juanito, Santillana, Stielike",La Liga
+1981-12-20,1981,Camp Nou,3,1,Barcelona,,,"Alexanko, Quini, Quini",Juanito,La Liga
+1982-04-18,1982,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Quini,"Cortés, Stielike, Isidro",La Liga
+1982-11-27,1982,Santiago Bernabéu Stadium,2,0,Barcelona,,,"Vigo, Quini",,La Liga
+1983-03-26,1983,Camp Nou,2,1,Barcelona,,,"Maradona, Alonso",Juanito,La Liga
+1983-10-22,1983,Camp Nou,1,2,Real Madrid,,,Quini,"Juanito, Santillana",La Liga
+1984-02-25,1984,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Maradona,"Juanito, Santillana",La Liga
+1984-09-02,1984,Santiago Bernabéu Stadium,3,0,Barcelona,Ángel,,"Archibald, Calderé",,La Liga
+1984-12-30,1984,Camp Nou,3,2,Barcelona,,,"Gerardo, Migueli, Vigo","Sanchís, Butragueño",La Liga
+1985-11-09,1985,Camp Nou,2,0,Barcelona,,,"Marcos, Calderé",,La Liga
+1986-03-08,1986,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Amarilla,"Maceda, Valdano, Butragueño",La Liga
+1986-10-08,1986,Santiago Bernabéu Stadium,1,1,Draw,,,Pedraza,Sánchez,La Liga
+1987-01-31,1987,Camp Nou,3,2,Barcelona,,,"Lineker, Lineker, Lineker","Valdano, Sánchez",La Liga
+1987-04-12,1987,Santiago Bernabéu Stadium,0,0,Draw,,,,,La Liga
+1987-05-23,1987,Camp Nou,2,1,Barcelona,,,"Lineker, Roberto",Sánchez,La Liga
+1988-01-02,1988,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Schuster,"Sánchez, Sánchez",La Liga
+1988-04-30,1988,Camp Nou,2,0,Barcelona,,,"Carrasco, Lineker",,La Liga
+1988-10-22,1988,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Bakero, Carrasco","Sánchez, Aldana, Gordillo",La Liga
+1989-04-01,1989,Camp Nou,0,0,Draw,,,,,La Liga
+1989-10-07,1989,Camp Nou,3,1,Barcelona,,,"Salinas, Koeman, Koeman",Sánchez,La Liga
+1990-02-15,1990,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Salinas, Salinas","Míchel, Butragueño, Sánchez",La Liga
+1991-01-19,1991,Camp Nou,2,1,Barcelona,Spasić,,Laudrup,Butragueño,La Liga
+1991-06-08,1991,Santiago Bernabéu Stadium,0,1,Real Madrid,,,,Aldana,La Liga
+1991-10-19,1991,Santiago Bernabéu Stadium,1,1,Draw,,,Koeman,Prosinečki,La Liga
+1992-03-07,1992,Camp Nou,1,1,Draw,,,Koeman,Hierro,La Liga
+1992-09-05,1992,Camp Nou,2,1,Barcelona,,,"Bakero, Stoichkov",Míchel,La Liga
+1993-01-29,1993,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Amor,"Zamorano, Míchel",La Liga
+1994-01-08,1994,Camp Nou,5,0,Barcelona,,,"Romário, Romário, Romário, Koeman, Iglesias",,La Liga
+1994-05-06,1994,Santiago Bernabéu Stadium,1,0,Barcelona,,,Amor,,La Liga
+1995-01-06,1995,Santiago Bernabéu Stadium,0,5,Real Madrid,,,,"Zamorano, Zamorano, Zamorano, Enrique, Amavisca",La Liga
+1995-05-26,1995,Camp Nou,1,0,Barcelona,,,Nadal,,La Liga
+1995-09-30,1995,Santiago Bernabéu Stadium,1,1,Draw,,,Roger,Raúl,La Liga
+1996-02-09,1996,Camp Nou,3,0,Barcelona,,,"Kodro, Kodro, Figo",,La Liga
+1996-12-07,1996,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Šuker, Mijatović",La Liga
+1997-05-10,1997,Camp Nou,1,0,Barcelona,,,Ronaldo,,La Liga
+1997-11-01,1997,Santiago Bernabéu Stadium,3,2,Barcelona,,,"Rivaldo, Enrique, Giovanni","Raúl, Šuker",La Liga
+1998-03-07,1998,Camp Nou,3,0,Barcelona,,,"Anderson, Figo, Giovanni",,La Liga
+1998-09-19,1998,Santiago Bernabéu Stadium,2,2,Draw,,,"Kluivert, Anderson","Raúl, Raúl",La Liga
+1999-02-14,1999,Camp Nou,3,0,Barcelona,,,"Enrique, Enrique, Rivaldo",,La Liga
+1999-10-13,1999,Camp Nou,2,2,Draw,,,"Rivaldo, Figo","Raúl, Raúl",La Liga
+2000-02-26,2000,Santiago Bernabéu Stadium,0,3,Real Madrid,,,,"Carlos, Anelka, Morientes",La Liga
+2000-10-21,2000,Camp Nou,2,0,Barcelona,,,"Enrique, Simão",,La Liga
+2001-03-03,2001,Santiago Bernabéu Stadium,2,2,Draw,,,"Rivaldo, Rivaldo","Raúl, Raúl",La Liga
+2001-11-04,2001,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Morientes, Figo",La Liga
+2002-03-16,2002,Camp Nou,1,1,Draw,,,Xavi,Zidane,La Liga
+2002-11-23,2002,Camp Nou,0,0,Draw,,,,,La Liga
+2003-04-19,2003,Santiago Bernabéu Stadium,1,1,Draw,,,Enrique,Ronaldo,La Liga
+2003-12-06,2003,Camp Nou,1,2,Real Madrid,,,Kluivert,"Carlos, Ronaldo",La Liga
+2004-04-25,2004,Santiago Bernabéu Stadium,2,1,Barcelona,,,"Kluivert, Xavi",Solari,La Liga
+2004-11-20,2004,Camp Nou,3,0,Barcelona,,,"o, Bronckhorst, Ronaldinho",,La Liga
+2005-04-10,2005,Santiago Bernabéu Stadium,2,4,Real Madrid,,,"o, Ronaldinho","Zidane, Ronaldo, Raúl, Owen",La Liga
+2005-11-19,2005,Santiago Bernabéu Stadium,3,0,Barcelona,,,"o, Ronaldinho, Ronaldinho",,La Liga
+2006-04-01,2006,Camp Nou,1,1,Draw,,,Ronaldinho,Ronaldo,La Liga
+2006-10-22,2006,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Raúl, Nistelrooy",La Liga
+2007-03-10,2007,Camp Nou,3,3,Draw,,,"Messi, Messi, Messi","Nistelrooy, Nistelrooy, Ramos",La Liga
+2007-12-23,2007,Camp Nou,0,1,Real Madrid,,,,Baptista,La Liga
+2008-05-07,2008,Santiago Bernabéu Stadium,1,4,Real Madrid,,,Henry,"Raúl, Robben, Higuaín, Nistelrooy",La Liga
+2008-12-13,2008,Camp Nou,2,0,Barcelona,,,"o, Messi",,La Liga
+2009-05-02,2009,Santiago Bernabéu Stadium,6,2,Barcelona,,,"Henry, Henry, Puyol, Messi, Messi, Piqué","Higuaín, Ramos",La Liga
+2009-11-29,2009,Camp Nou,1,0,Barcelona,,,Ibrahimović,,La Liga
+2010-04-10,2010,Santiago Bernabéu Stadium,2,0,Barcelona,,,"Messi, Pedro",,La Liga
+2010-11-29,2010,Camp Nou,5,0,Barcelona,,,"Xavi, Pedro, Villa, Villa, Jeffrén",,La Liga
+2011-04-16,2011,Santiago Bernabéu Stadium,1,1,Draw,,,Messi,Ronaldo,La Liga
+2011-12-10,2011,Santiago Bernabéu Stadium,3,1,Barcelona,,,"Sánchez, Xavi, Fàbregas",Benzema,La Liga
+2012-04-21,2012,Camp Nou,1,2,Real Madrid,,,Sánchez,"Khedira, Ronaldo",La Liga
+2012-10-07,2012,Camp Nou,2,2,Draw,,,"Messi, Messi","Ronaldo, Ronaldo",La Liga
+2013-03-02,2013,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Messi,"Benzema, Ramos",La Liga
+2013-10-26,2013,Camp Nou,2,1,Barcelona,,,"Neymar, Sánchez",Jesé,La Liga
+2014-03-23,2014,Santiago Bernabéu Stadium,4,3,Barcelona,,,"Iniesta, Messi, Messi, Messi","Benzema, Benzema, Ronaldo",La Liga
+2014-10-25,2014,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Neymar,"Ronaldo, Pepe, Benzema",La Liga
+2015-03-22,2015,Camp Nou,2,1,Barcelona,,,"Mathieu, Suárez",Ronaldo,La Liga
+2015-11-21,2015,Santiago Bernabéu Stadium,4,0,Barcelona,,,"Suárez, Suárez, Neymar, Iniesta",,La Liga
+2016-04-02,2016,Camp Nou,1,2,Real Madrid,,,Piqué,"Benzema, Ronaldo",La Liga
+2016-12-03,2016,Camp Nou,1,1,Draw,,,Suárez,Ramos,La Liga
+2017-04-23,2017,Santiago Bernabéu Stadium,3,2,Barcelona,,,"Messi, Messi, Rakitić","Casemiro, Rodríguez",La Liga
+2017-12-23,2017,Santiago Bernabéu Stadium,3,0,Barcelona,,,"Suárez, Messi, Vidal",,La Liga
+2018-05-06,2018,Camp Nou,2,2,Draw,,,"Suárez, Messi","Ronaldo, Bale",La Liga
+2018-10-28,2018,Camp Nou,5,1,Barcelona,,,"Coutinho, Suárez, Suárez, Suárez, Vidal",Marcelo,La Liga
+2019-03-02,2019,Santiago Bernabéu Stadium,1,0,Barcelona,,,Rakitić,,La Liga
+2019-12-18,2019,Camp Nou,0,0,Draw,,,,,La Liga
+2020-03-01,2020,Santiago Bernabéu Stadium,0,2,Real Madrid,,,,"Vinícius, Díaz",La Liga
+2020-10-24,2020,Camp Nou,1,3,Real Madrid,,,Fati,"Valverde, Ramos, Modrić",La Liga
+2021-04-10,2021,Santiago Bernabéu Stadium,1,2,Real Madrid,,,Mingueza,"Benzema, Kroos",La Liga
+2021-10-24,2021,Camp Nou,1,2,Real Madrid,,,Agüero,"Alaba, Vázquez",La Liga
+2022-03-20,2022,Santiago Bernabéu Stadium,4,0,Barcelona,,,"Aubameyang, Aubameyang, Araújo, Torres",,La Liga
+2022-10-16,2022,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Torres,"Benzema, Valverde, Rodrygo",La Liga
+2023-03-19,2023,Camp Nou,2,1,Barcelona,,Araújo,"Roberto, Kessié",,La Liga
+2023-10-28,2023,Camp Nou,1,2,Real Madrid,,,Gündoğan,"Bellingham, Bellingham",La Liga
+2024-04-21,2024,Santiago Bernabéu Stadium,2,3,Real Madrid,,,"Christensen, López","Vinícius, Vázquez, Bellingham",La Liga
+2024-10-26,2024,Santiago Bernabéu Stadium,4,0,Barcelona,,,"Lewandowski, Lewandowski, Yamal, Raphinha",,La Liga

@@ -1,9 +1,9 @@
-Date,Venue,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers,League
-1959–60,Santiago Bernabéu Stadium,1,3,Real Madrid,,,Martínez,"Stéfano, Stéfano, Puskás",UEFA Championship
-1959–60,Camp Nou,1,3,Real Madrid,,,Kocsis,"Puskás, Puskás, Gento",UEFA Championship
-1960–61,Santiago Bernabéu Stadium,2,2,Draw,,,,"Mateos, Gento",UEFA Championship
-1960–61,Camp Nou,2,1,Barcelona,,,"Vergés, Evaristo",Canário,UEFA Championship
-2001–02,Camp Nou,0,2,Real Madrid,,,,"Zidane, McManaman",UEFA Championship
-2001–02,Santiago Bernabéu Stadium,1,1,Draw,Helguera,,,Raúl,UEFA Championship
-2010–11,Santiago Bernabéu Stadium,2,0,Barcelona,,,"Messi, Messi",,UEFA Championship
-2010–11,Camp Nou,1,1,Draw,,,Pedro,Marcelo,UEFA Championship
+Year,Venue,Date,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers,League
+1960,Santiago Bernabéu Stadium,21-04-1960,1,3,Real Madrid,,,Martínez,"Stéfano, Stéfano, Puskás",UEFA Championship
+1960,Camp Nou,27-04-1960,1,3,Real Madrid,,,Kocsis,"Puskás, Puskás, Gento",UEFA Championship
+1960,Santiago Bernabéu Stadium,09-11-1960,2,2,Draw,,,"Suarez, Suarez","Mateos, Gento",UEFA Championship
+1960,Camp Nou,23-11-1960,2,1,Barcelona,,,"Vergés, Evaristo",Canário,UEFA Championship
+2002,Camp Nou,23-04-2002,0,2,Real Madrid,,,,"Zidane, McManaman",UEFA Championship
+2002,Santiago Bernabéu Stadium,01-05-2002,1,1,Draw,Helguera,,,Raúl,UEFA Championship
+2011,Santiago Bernabéu Stadium,27-04-2011,2,0,Barcelona,,,"Messi, Messi",,UEFA Championship
+2011,Camp Nou,03-05-2011,1,1,Draw,,,Pedro,Marcelo,UEFA Championship

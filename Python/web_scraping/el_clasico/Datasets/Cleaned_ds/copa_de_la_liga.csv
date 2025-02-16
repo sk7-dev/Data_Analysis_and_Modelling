@@ -1,7 +1,7 @@
-Date,Venue,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers,League
-1982–83,Santiago Bernabéu Stadium,2,2,Draw,,,"Carrasco, Maradona",Bosque,Copa De La Liga
-1982–83,Camp Nou,2,1,Barcelona,,,Alexanko,Santillana,Copa De La Liga
-1984–85,Camp Nou,2,2,Draw,,,"Clos, Marcos","Valdano, Juanito",Copa De La Liga
-1984–85,Santiago Bernabéu Stadium,1,1,Draw,,,Moratalla,Valdano,Copa De La Liga
-1985–86,Camp Nou,2,2,Draw,,,"Clos, Archibald","Pardeza, Cholo",Copa De La Liga
-1985–86,Santiago Bernabéu Stadium,4,0,Barcelona,,,"Amarilla, Amarilla, Urbano, Esteban",,Copa De La Liga
+Year,Venue,Date,Barcelona_Goals,Real_Madrid_Goals,Winner,Real_Madrid_Own_Goals,Barcelona_Own_Goals,Barcelona_Scorers,Real_Madrid_Scorers,League
+1983,Santiago Bernabéu Stadium,26-06-1983,2,2,Draw,,,"Carrasco, Maradona","Bosque, Juan Gomez",Copa De La Liga
+1983,Camp Nou,29-06-1983,2,1,Barcelona,,,"Alexanko, Maradona",Santillana,Copa De La Liga
+1985,Camp Nou,11-05-1985,2,2,Draw,,,"Clos, Marcos","Valdano, Juanito",Copa De La Liga
+1985,Santiago Bernabéu Stadium,18-05-1985,1,1,Real Madrid,,,Moratalla,Valdano,Copa De La Liga
+1986,Camp Nou,11-05-1986,2,2,Draw,,,"Clos, Archibald","Pardeza, Cholo",Copa De La Liga
+1986,Santiago Bernabéu Stadium,18-05-1986,4,0,Barcelona,,,"Amarilla, Amarilla, Urbano, Esteban",,Copa De La Liga

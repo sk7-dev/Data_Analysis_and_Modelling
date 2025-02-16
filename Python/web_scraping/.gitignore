@@ -1,2 +1,4 @@
-/scrap
+scrap/
+Datasets/Raw_ds/
+Datasets/EDA/
 rough.py
