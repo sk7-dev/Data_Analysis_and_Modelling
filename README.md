@@ -1,7 +1,8 @@
 ## Python
 1. Medallion Architecture Project
 2. Web Scraping
-   a. All El-Clasico Data
+   
+   i. All El-Clasico Data
 ---
 ## Tik-Tok Sentiment Analysis
 ---
