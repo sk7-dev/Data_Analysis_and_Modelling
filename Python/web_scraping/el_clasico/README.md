@@ -11,16 +11,15 @@ The dataset was extracted from [Wikipedia](https://en.wikipedia.org/wiki/List_of
 ## **Data Processing Workflow**  
 
 ### **1. Data Extraction**  
-- Collected match data from Wikipedia, including results, venues, competition types, goal scorers, and more.  
+- Collected match data from Wikipedia, Trasfermarkt, including results, venues, competition types, goal scorers, and more.  
 
 ### **2. Data Cleaning**  
-- Standardized **team names**, **match formats**, and **date formats** for consistency.  
+- Standardized **score formats**, **match formats**, and **date formats** for consistency.  
 - Removed inconsistencies and ensured data accuracy.  
 - Verified goal counts and match details across different sources.  
 
 ### **3. Data Preparation**  
 - Structured the dataset to enable easy filtering and analysis in **Tableau**.  
-- Created additional calculated fields for **goal differences, win percentages, and player statistics**.  
 
 ---
 
